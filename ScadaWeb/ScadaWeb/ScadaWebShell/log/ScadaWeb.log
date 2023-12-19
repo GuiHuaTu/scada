@@ -1,0 +1,107 @@
+﻿--------------------------------------------------------------------------------
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ACT> Initialize common web application data
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 17:40:00 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 17:40:05 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 17:40:05 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+--------------------------------------------------------------------------------
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ACT> Initialize common web application data
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:27 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:28 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:28 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:28 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:28 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:08:28 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 18:08:33 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 18:08:33 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+2023-12-19 18:08:37 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:08:42 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:08:42 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 18:08:47 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 18:08:47 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+2023-12-19 18:08:49 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:08:49 <DESKTOP-7GR1S55><Administrator><ACT> User information has been added. IP address: ::1. Session: qxir4cyzh3lenipkeos2crh0
+2023-12-19 18:09:08 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:09:08 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 18:09:13 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 18:09:13 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+2023-12-19 18:09:16 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:09:16 <DESKTOP-7GR1S55><Administrator><ERR> Unable to connect to SCADA-Server. Try again.
+2023-12-19 18:09:17 <DESKTOP-7GR1S55><Administrator><ERR> Unsuccessful login attempt: admin - Server is unavailable. IP address: ::1
+2023-12-19 18:09:23 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:09:23 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 18:09:28 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 18:09:28 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+2023-12-19 18:09:31 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:09:31 <DESKTOP-7GR1S55><Administrator><ERR> Unable to connect to SCADA-Server. Try again.
+2023-12-19 18:09:31 <DESKTOP-7GR1S55><Administrator><ERR> Unsuccessful login attempt: admin - Server is unavailable. IP address: ::1
+--------------------------------------------------------------------------------
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ACT> Initialize common web application data
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgChart.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgConfig.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgRegistration.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgSchBasicComp.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgScheme.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgStore.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgTable.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ERR> Error loading the plugin assembly C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll:
+未能加载文件或程序集“file:///C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\bin\PlgWebPage.dll”或它的某一个依赖项。系统找不到指定的文件。
+2023-12-19 18:37:44 <DESKTOP-7GR1S55><Administrator><ACT> Connect to SCADA-Server "localhost"
+2023-12-19 18:37:50 <DESKTOP-7GR1S55><Administrator><EXC> Error connecting to SCADA-Server: 无法从传输连接中读取数据: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。。
+2023-12-19 18:37:50 <DESKTOP-7GR1S55><Administrator><ACT> Disconnect from SCADA-Server
+2023-12-19 18:37:53 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:37:53 <DESKTOP-7GR1S55><Administrator><ERR> Dictionary file not found: C:\Users\Administrator\Documents\Projects\scada\ScadaWeb\ScadaWeb\ScadaWebShell\lang\ScadaData.en-GB.xml
+2023-12-19 18:37:53 <DESKTOP-7GR1S55><Administrator><ERR> Unable to connect to SCADA-Server. Try again.
+2023-12-19 18:37:54 <DESKTOP-7GR1S55><Administrator><EXC> Error refreshing the tables of the configuration database:
+Scada.ScadaException: Unable to receive the configuration database modification time.
+   在 Scada.Client.DataCache.RefreshBaseTables() 位置 C:\Users\Administrator\Documents\Projects\scada\ScadaData\ScadaData\Client\DataCache.cs:行号 330
+2023-12-19 18:37:54 <DESKTOP-7GR1S55><Administrator><ACT> User information has been added. IP address: ::1. Session: fcouxcotlux4ndbuq4ivltkk
