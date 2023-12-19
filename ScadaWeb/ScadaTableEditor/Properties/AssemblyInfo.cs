@@ -1,4 +1,5 @@
-﻿using Scada.Web.Plugins.Table;
+﻿using Scada.Table;
+using Scada.Web.Plugins.Table;
 using System.Reflection;
 using System.Runtime.InteropServices;
 

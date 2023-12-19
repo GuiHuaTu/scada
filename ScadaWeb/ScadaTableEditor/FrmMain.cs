@@ -25,7 +25,9 @@
 
 using Scada;
 using Scada.Data.Tables;
+using Scada.Table;
 using Scada.UI;
+using Scada.Web.Plugins.Config;
 using Scada.Web.Plugins.Table;
 using System;
 using System.Collections.Generic;
